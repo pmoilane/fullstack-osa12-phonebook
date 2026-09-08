@@ -1,3 +1,4 @@
 .env
 dist
 requests
+node_modules
